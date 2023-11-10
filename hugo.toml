@@ -1,0 +1,4 @@
+baseURL = 'https://eddie.srht.site/resume'
+languageCode = 'en-us'
+title = 'Eddie Chan'
+theme = 'simple-cv'

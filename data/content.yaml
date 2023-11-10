@@ -1,0 +1,110 @@
+Dir: ltr # Left to Right Direction
+
+BasicInfo:
+  FirstName: Eddie 
+  LastName: Chan
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: eddiectc@gmail.com
+      Link: false
+        #    - Icon: fas fa-phone
+        #Info: (+98) 935 957 8994
+        #Link: false
+    - Icon: fas fa-map-marker-alt
+      Info: Reading, UK
+      Link: false 
+        #    - Icon: fab fa-linkedin-in
+        #Info: linkedin.com/in/hootan09
+        #Link: true
+        #    - Icon: fab fa-github
+        #      Info: github.com/hootan09
+        #Link: true
+        #- Icon: fas fa-globe
+        #Info: NikiTv.ir
+        #Link: true
+
+Experience:
+  - Employer: Finverse Technologies
+    Place: Hong Kong
+    Positions:
+      - Title: Software Architect
+        Date: Jul 2020 - Mar 2023
+        Details:
+          - Built the Finverse system from scratch. Finverse is a fintech startup focusing on southeast asia, offering 2 major products - Payment API and Data API. The Payment API is a stripe-like api offering direct bank debit payments; The Data API is a plaid-like api for bank account data aggregation.
+          - Led an engineering team around 6 engineers. Implemented devops engineering culture - fully automated CICD, every team members write their own tests and responsible to production deployment.
+          - Finverse raised USD 1.8m seed funding in 2021.
+        Badges: ['GKE', 'GoLang', 'Terraform', 'GCP cloudsql (postgresql)', 'GCP pubsub', 'Gitlab CICD']
+  - Employer: YouTrip
+    Place: Hong Kong
+    Positions:
+      - Title: Architect
+        Date: Jun 2018 - Jul 2020
+        Details:
+          - Migrated backend system to new platform which solved some major pitfalls like shared database, tight coupling services, hard to maintain code base, etc.
+          - Launched youtrip platform to the new market - Thailand. 
+          - Youtrip raised USD 25.5m in 2019. 
+        Badges: ['Kubernetes', 'GoLang', 'Kafka']
+  - Employer: Zwoop
+    Place: Hong Kong
+    Positions:
+      - Title: Developer
+        Date: May 2017 - May 2018
+        Details:
+          - Raised USD 13M pre-series A funding
+  - Employer: AtCipher
+    Place: Hong Kong
+    Positions:
+      - Title: Developer
+        Date: May 2015 - Sep 2016
+        Details:
+          - Attended Techstars Seattle Accelerator at 2015
+  - Employer: Goldman Sachs
+    Place: Hong Kong
+    Positions:
+      - Title: Associate/Developer
+        Date: Nov 2009 - Feb 2014
+  - Employer: Merrill Lynch
+    Place: Hong Kong
+    Positions:
+      - Title: Senior Specialist
+        Date: Feb 2007 - Nov 2009
+  - Employer: Infinite Financial Solutions
+    Place: Hong Kong
+    Positions:
+      - Title: System Analyst
+        Date: Oct 2005 - Feb 2007
+  - Employer: SwiftPath
+    Place: Hong Kong
+    Positions:
+      - Title: Staff Engineer
+        Date: Mar 2004 - Oct 2005
+  - Employer: House18 Service
+    Place: Hong Kong
+    Positions:
+      - Title: Technical Specialist
+        Date: Aug 2003 - Mar 2004
+
+
+
+
+
+ 
+
+Education:
+  - Degree: B.Sc.
+    FieldOfStudy: Information Technology
+    NameofSchool: City University Of Hong Kong
+    Location: Hong Kong
+    Date: Sep 2000 - Sep 2003
+
+Profile: Build things from zero to production. Automate everything. Write code in simple stupid way.
+
+
+Skills:
+ - GoLang
+ - Linux
+ - Gitlab CI | Sourcehut
+ - GCP | AWS
+ - GCP Pubsub | Kafka
+ - Terraform
