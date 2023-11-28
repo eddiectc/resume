@@ -41,7 +41,8 @@ Experience:
       - Title: Architect
         Date: Jun 2018 - Jul 2020
         Details:
-          - Migrated legacy platform to new scalable microservices architecture fueling expansion into the Thailand market.
+          - Migrated legacy platform to new scalable microservices architecture.
+          - Eliminated instability and transactional issues causing double charges or missing debit card transactions.
           - Youtrip raised USD 25.5m in 2019. 
         Badges: ['Kubernetes', 'GoLang', 'Kafka']
   - Employer: Zwoop
