@@ -31,18 +31,17 @@ Experience:
       - Title: Software Architect
         Date: Jul 2020 - Mar 2023
         Details:
-          - Built the Finverse system from scratch. Finverse is a fintech startup focusing on southeast asia, offering 2 major products - Payment API and Data API. The Payment API is a stripe-like api offering direct bank debit payments; The Data API is a plaid-like api for bank account data aggregation.
-          - Led an engineering team around 6 engineers. Implemented devops engineering culture - fully automated CICD, every team members write their own tests and responsible to production deployment.
+          - Built a fintech API platform from scratch to offer payment and data aggregation APIs.
+          - Led an engineering team of 6, instituting devops culture and CI/CD best practices.
           - Finverse raised USD 1.8m seed funding in 2021.
-        Badges: ['GKE', 'GoLang', 'Terraform', 'GCP cloudsql (postgresql)', 'GCP pubsub', 'Gitlab CICD']
+        Badges: ['GoLang', 'GKE', 'Terraform', 'Cloudsql', 'Pub/Sub', 'Gitlab CICD']
   - Employer: YouTrip
     Place: Hong Kong
     Positions:
       - Title: Architect
         Date: Jun 2018 - Jul 2020
         Details:
-          - Migrated backend system to new platform which solved some major pitfalls like shared database, tight coupling services, hard to maintain code base, etc.
-          - Launched youtrip platform to the new market - Thailand. 
+          - Migrated legacy platform to new scalable microservices architecture fueling expansion into the Thailand market.
           - Youtrip raised USD 25.5m in 2019. 
         Badges: ['Kubernetes', 'GoLang', 'Kafka']
   - Employer: Zwoop
@@ -51,14 +50,14 @@ Experience:
       - Title: Developer
         Date: May 2017 - May 2018
         Details:
-          - Raised USD 13M pre-series A funding
+          - Raised USD 13m pre-series A funding.
   - Employer: AtCipher
     Place: Hong Kong
     Positions:
       - Title: Developer
         Date: May 2015 - Sep 2016
         Details:
-          - Attended Techstars Seattle Accelerator at 2015
+          - Attended Techstars Seattle accelerator program in 2015.
   - Employer: Goldman Sachs
     Place: Hong Kong
     Positions:
@@ -98,17 +97,15 @@ Education:
     Location: Hong Kong
     Date: Sep 2000 - Sep 2003
 
-Profile: >
-  *Relocated to the UK in Autumn 2023, permitted to work* <br />
-  <br />
-  Build things from zero to production. Automate everything. Write code in simple stupid way.
+Profile: Hands-on software developer skilled at building products from the ground up and automating systems end-to-end. Over 15 years turning ideas into production-ready platforms through simple, scalable code and CI/CD best practices. Relocated to the UK in 2023 with full work permit.
 
 
 
 Skills:
  - GoLang
- - Linux
- - Gitlab CI | Sourcehut
+ - PostgreSQL
+ - Gitlab CI
+ - Kubernetes
  - GCP | AWS
  - GCP Pubsub | Kafka
  - Terraform
