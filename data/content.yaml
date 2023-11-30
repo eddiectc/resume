@@ -31,7 +31,8 @@ Experience:
       - Title: Software Architect (Hands-on development)
         Date: Jul 2020 - Mar 2023
         Details:
-          - Built a fintech API platform from scratch to offer payment and data aggregation APIs using microservices architecture and event sourcing.
+          - Developed an API platform from scratch to offer payment and data aggregation APIs using microservices architecture and event sourcing.
+          - Built the infrastructure on GKE and fully automated CICD to production.
           - Led an engineering team of 6, established devops culture and CI/CD best practices.
           - Finverse raised USD 1.8m seed funding in 2021.
         Badges: ['GoLang', 'GKE', 'Terraform', 'Cloudsql', 'Pub/Sub', 'Gitlab CICD']
