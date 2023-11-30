@@ -28,34 +28,35 @@ Experience:
   - Employer: Finverse Technologies
     Place: Hong Kong
     Positions:
-      - Title: Software Architect
+      - Title: Software Architect (Hands-on development)
         Date: Jul 2020 - Mar 2023
         Details:
-          - Built a fintech API platform from scratch to offer payment and data aggregation APIs.
+          - Built a fintech API platform from scratch to offer payment and data aggregation APIs using microservices architecture and event sourcing.
           - Led an engineering team of 6, established devops culture and CI/CD best practices.
           - Finverse raised USD 1.8m seed funding in 2021.
         Badges: ['GoLang', 'GKE', 'Terraform', 'Cloudsql', 'Pub/Sub', 'Gitlab CICD']
   - Employer: YouTrip
     Place: Hong Kong
     Positions:
-      - Title: Architect
+      - Title: Architect (Hands-on development)
         Date: Jun 2018 - Jul 2020
         Details:
-          - Migrated legacy platform to new scalable microservices architecture.
+          - Developed from scratch the Youtrip backend platform using microservices and event driven architecture, and migrated legacy platform to it.
           - Eliminated instability and transactional issues causing double charges or missing debit card transactions.
           - Youtrip raised USD 25.5m in 2019. 
-        Badges: ['Kubernetes', 'GoLang', 'Kafka']
+        Badges: ['GoLang', 'Kubernetes', 'Kafka']
   - Employer: Zwoop
     Place: Hong Kong
     Positions:
-      - Title: Developer
+      - Title: Senior Software Engineer
         Date: May 2017 - May 2018
         Details:
-          - Raised USD 13m pre-series A funding.
+          - Zwoop raised USD 13m pre-series A funding.
+        Badges: ['Java', 'Kubernetes', 'Kafka']
   - Employer: AtCipher
     Place: Hong Kong
     Positions:
-      - Title: Developer
+      - Title: Principle Application Engineer
         Date: May 2015 - Sep 2016
         Details:
           - Attended Techstars Seattle accelerator program in 2015.
@@ -98,7 +99,7 @@ Education:
     Location: Hong Kong
     Date: Sep 2000 - Sep 2003
 
-Profile: Hands-on software developer skilled at building products from the ground up and automating systems end-to-end. Over 15 years turning ideas into production-ready platforms through simple, scalable code and CI/CD best practices. Relocated to the UK in 2023 with full work permit.
+Profile: Hands-on Golang developer skilled at building products from the ground up and automating systems end-to-end. Proven track record turning ideas into production-ready platforms through simple, scalable code and CI/CD best practices. Relocated to the UK in 2023 with full work permit.
 
 
 
