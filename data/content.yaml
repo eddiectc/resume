@@ -31,28 +31,35 @@ Experience:
       - Title: Architect (Hands-on development)
         Date: Jul 2020 - Mar 2023
         Details:
-          - Developed an API platform from scratch to offer payment and data aggregation APIs using microservices architecture and event sourcing.
-          - Built the infrastructure on GKE and fully automated CICD to production.
-          - Led an engineering team of 6, established devops culture and CI/CD best practices.
+          - Led the development of API platform from scratch, delivering payment and data aggregation APIs. Utilized microservices architecture and event sourcing to ensure scalability and efficiency.
+          - Achieved a streamlined onboarding process for banks, reducing it to just 4 weeks with a small team of engineers. This significantly accelerated the integration process, resulting in enhanced efficiency.
+          - Implemented a comprehensive end-to-end automation process, orchestrating CICD pipelines from source code to production deployment. Utilized GitLab CI and Helm to fully automate the CICD workflow.
+          - Utilized Gauge for automated end-to-end regression testing, ensuring the reliability and stability of the developed platform.
+          - Implemented infrastructure as code using terraform to automate infrastructure deployment to GCP. This approach significantly reduced manual intervention and enhanced system stability.
+          - Led and mentored a dynamic engineering team of 6, establishing a DevOps culture and implementing best practices for CICD.
           - Finverse raised USD 1.8m seed funding in 2021.
-        Badges: ['GoLang', 'GKE', 'Terraform', 'Cloudsql', 'Pub/Sub', 'Gitlab CICD']
+          - Reported directly to the CEO.
+        Badges: ['GoLang', 'GKE', 'Terraform', 'PostgreSQL', 'Pub/Sub', 'Gitlab CICD']
   - Employer: YouTrip
     Place: Hong Kong
     Positions:
-      - Title: Architect (Hands-on development)
+      - Title: Senior Software Engineer
         Date: Jun 2018 - Jul 2020
         Details:
-          - Developed from scratch the Youtrip backend platform using microservices and event driven architecture, and migrated legacy platform to it.
-          - Eliminated instability and transactional issues causing double charges or missing debit card transactions.
+          - Led the development of a new backend platform for YouTrip, using microservices and event driven architecture. This strategic initiative facilitated rapid delivery of new features and provided a robust, scalable platform capable of handling millions of daily transactions.
+          - Successfully migrated to the new backend platform, effectively eliminating instability and resolving transactional issues. This addressed challenges such as double charges and missing debit card transactions, significantly enhancing user experience and system reliability.
           - Youtrip raised USD 25.5m in 2019. 
-        Badges: ['GoLang', 'Kubernetes', 'Kafka']
+          - Reported directly to the CEO.
+        Badges: ['GoLang', 'Kubernetes', 'Kafka', 'PostgreSQL']
   - Employer: Zwoop
     Place: Hong Kong
     Positions:
       - Title: Senior Software Engineer
         Date: May 2017 - May 2018
         Details:
+          - Contributed to backend development and infrastructure setup.
           - Zwoop raised USD 13m pre-series A funding.
+          - Reported directly to the CTO.
         Badges: ['Java', 'Kubernetes', 'Kafka']
   - Employer: AtCipher
     Place: Hong Kong
@@ -60,32 +67,41 @@ Experience:
       - Title: Principle Application Engineer
         Date: May 2015 - Sep 2016
         Details:
+          - Contributed to backend development and infrastructure setup.
           - Attended Techstars Seattle accelerator program in 2015.
+          - Reported directly to the CEO.
   - Employer: Goldman Sachs
     Place: Hong Kong
     Positions:
       - Title: Associate/Developer
         Date: Nov 2009 - Feb 2014
+        Details:
+          - Contributed to development and support of valuations system to provide essential reporting tools for Middle Office users.
+        Badges: ['Java', 'Slang', 'Sybase']
   - Employer: Merrill Lynch
     Place: Hong Kong
     Positions:
       - Title: Senior Specialist
         Date: Feb 2007 - Nov 2009
-  - Employer: Infinite Financial Solutions
-    Place: Hong Kong
-    Positions:
-      - Title: System Analyst
-        Date: Oct 2005 - Feb 2007
-  - Employer: SwiftPath
-    Place: Hong Kong
-    Positions:
-      - Title: Staff Engineer
-        Date: Mar 2004 - Oct 2005
-  - Employer: House18 Service
-    Place: Hong Kong
-    Positions:
-      - Title: Technical Specialist
-        Date: Aug 2003 - Mar 2004
+        Details:
+          - Contributed to development and support of equity derivatives booking system for Front/Middle Office users.
+        Badges: ['Java', 'C#', 'Oracle']
+
+          #  - Employer: Infinite Financial Solutions
+          #    Place: Hong Kong
+          #    Positions:
+          #      - Title: System Analyst
+          #        Date: Oct 2005 - Feb 2007
+          #  - Employer: SwiftPath
+          #    Place: Hong Kong
+          #    Positions:
+          #      - Title: Staff Engineer
+          #        Date: Mar 2004 - Oct 2005
+          #  - Employer: House18 Service
+          #    Place: Hong Kong
+          #    Positions:
+          #      - Title: Technical Specialist
+          #        Date: Aug 2003 - Mar 2004
 
 
 
